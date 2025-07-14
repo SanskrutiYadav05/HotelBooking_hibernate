@@ -53,6 +53,6 @@ HotelBookingSystem/
 
 ## output Image for Reference
 
-![My Code Screenshot](https://github.com/SanskrutiYadav05/java-fullstack/blob/main/code1.png)
+![My Code Screenshot](https://github.com/SanskrutiYadav05/HotelBooking_hibernate/blob/main/OutPut.png)
 
 
