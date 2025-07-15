@@ -41,7 +41,7 @@ HotelBookingSystem/
 │       │               ├── Room.java
 │       │               └── Booking.java
 │       └── resources/
-│           └── hibernate.cfg.xml
+│           └── persistence.xml
 |________pom.xml
 
 ## Contact
