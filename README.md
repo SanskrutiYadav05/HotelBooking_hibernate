@@ -53,6 +53,6 @@ HotelBookingSystem/
 
 ## output Image for Reference
 
-![My Code Screenshot](https://github.com/SanskrutiYadav05/HotelBooking_hibernate/blob/main/OutPut.png)
+![My Code Screenshot](https://github.com/SanskrutiYadav05/HotelBooking_hibernate/blob/main/Hotel%20RoomBooking.png)
 
 
